@@ -22,6 +22,9 @@ public class KlasaWojtek2 {
 
         System.out.println("Hej " + imię + " " + drugieImię + "!" + " Suma tych liczb wynosi: " + suma + "," + " a różnica" + różnica );
 
+        //zmiany które chcisałbym zmergeować
+               // dopisane
+
 
     }
 }
